@@ -1,10 +1,5 @@
 //
-//  ViewController.m
-//  URLSession
-//
-//  Created by William on 16/4/26.
-//  Copyright © 2016年 William. All rights reserved.
-//
+
 
 #import "ViewController.h"
 #import <MediaPlayer/MediaPlayer.h>
